@@ -1,0 +1,41 @@
+.navbar{
+    background-color: #222329 !important;
+    height: 5rem !important;
+    border-bottom: 1px solid rgb(57, 59, 71);
+    z-index: 2;
+}
+
+.navbar-brand{
+    font-size: 1.5rem;
+    font-weight: 700;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.navbar-title{
+    position: relative;
+    top: 4px;
+    color: #fff;
+    margin-left: 5% !important;
+}
+
+.container-fluid{
+    margin-left: 1%;
+}
+
+.nav-item{
+    padding: 1.4rem;
+}
+
+.dropdown-toggle{
+    background-color: #303138 !important;
+    border: 1px solid #303138;
+}
+
+.dropdown-menu{
+    background-color: #303138 !important;
+}
+
+.drop-flag{
+    width: 30px;
+    height: 30px;
+}

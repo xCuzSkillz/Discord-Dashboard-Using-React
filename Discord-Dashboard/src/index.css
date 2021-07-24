@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Zen+Loop&display=swap');
+
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+body{
+  background-color: #1d1e22;
+  font-family: 'Open Sans', sans-serif !important;
+}
+
+.btn:active, .btn:focus{
+  outline: none;
+  box-shadow: none;
+}
+
+
+::-webkit-scrollbar {
+  width: 7px;
+}
+
+::-webkit-scrollbar-track {
+  background: #222329;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #2f3138;
+  border-radius: 30px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #2f3138d3;
+}

@@ -1,0 +1,14 @@
+.protection-title{
+    font-size: 1.2rem;
+}
+
+hr{
+    height: 1px;
+    background-color: rgb(59, 62, 77);
+    border: none;
+    opacity: 1;
+    position: relative;
+    top: 1rem;
+    left: .5rem;
+    width: 95% !important;
+}

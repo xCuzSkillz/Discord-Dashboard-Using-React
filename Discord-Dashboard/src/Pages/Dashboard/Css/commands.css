@@ -1,0 +1,33 @@
+.command-card{
+    padding: 1.1rem 22px !important;
+}
+
+hr{
+    height: 1px;
+    background-color: rgb(37, 39, 48);
+    border: none;
+    margin: 24px 0px;
+    opacity: 1;
+}
+
+.command-descreption-02{
+    color: rgb(199, 201, 206);
+}
+
+.command-container{
+    margin-bottom: 2rem;
+}
+
+.category-row{
+    background-color: rgb(35, 38, 46);
+    border-radius: 6px !important;
+    margin-left: .6rem;
+}
+
+.active-btn{
+    background-color: rgb(56, 59, 75);
+}
+
+.btn-switchs:hover{
+    background-color: #166cec;
+}

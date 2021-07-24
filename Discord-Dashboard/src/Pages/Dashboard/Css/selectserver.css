@@ -1,0 +1,81 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Zen+Loop&display=swap');
+
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+body{
+  background-color: rgb(48, 49, 61) !important;
+  font-family: 'Open Sans', sans-serif !important;
+}
+
+.navbar{
+    background-color: rgb(48, 49, 61) !important;
+    border-bottom: none;
+}
+
+.card-section{
+    margin-top: 8%;
+}
+
+.server-card{
+    background-color: transparent;
+    border: none;
+    transition: 0.2s all;
+}
+
+.server-card:hover{
+    background-color: rgb(39, 40, 49);
+    cursor: pointer;
+    transition: 0.2s all;
+}
+
+.btn-invite{
+    padding: 10px 12px;
+    font-size: .9rem;
+    border-radius: 8px;
+    background-color: #0d6dfd3a;
+    color: #82b8ff;
+    border: none;
+}
+
+.btn-dashboard{
+    padding: 10px 12px;
+    font-size: .9rem;
+    border-radius: 8px;
+    background-color: #7f7f803a;
+    color: #e7e7e7;
+    border: none;
+}
+
+.btn-dashboard:hover{
+    background-color: #6868683a;
+}
+
+.server-name{
+    font-size: 1.4rem;
+}
+
+.btn-login{
+    padding: 6px 16px !important;
+}
+
+::-webkit-scrollbar {
+  width: 7px;
+}
+
+::-webkit-scrollbar-track {
+  background: #222329;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #2f3138;
+  border-radius: 30px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #2f3138d3;
+}
