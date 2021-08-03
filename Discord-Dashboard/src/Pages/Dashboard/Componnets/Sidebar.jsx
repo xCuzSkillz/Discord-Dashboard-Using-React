@@ -24,9 +24,9 @@ const Sidebar = () => {
     }
 
     const options = [
-        { value: 'ProPrtoection', label: 'ServerName1'},
-        { value: 'strawberry', label: 'ServerName2'},
-        { value: 'vanilla', label: 'ServerName3'}
+        { value: 'ServerName1', label: 'ServerName1'},
+        { value: 'ServerName2', label: 'ServerName2'},
+        { value: 'ServerName3', label: 'ServerName3'}
       ]
 
     return (  
